@@ -18,3 +18,4 @@ $ npm test # run tests
 ### Add foundation for JS
 
 - Add container to render app in
+- Add example content
