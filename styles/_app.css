@@ -1,0 +1,19 @@
+.layout-grid {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 3rem auto 2rem;
+  place-items: center;
+}
+
+header {
+  text-align: center;
+  grid-row: 1/2;
+}
+
+main {
+  grid-row: 2/3;
+}
+
+footer {
+  grid-row: 3/4;
+}
