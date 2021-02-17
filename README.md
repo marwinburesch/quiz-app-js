@@ -12,3 +12,9 @@ $ cd quiz-app
 $ npm i # install all dependencies
 $ npm test # run tests
 ```
+
+## Exercises
+
+### Add foundation for JS
+
+- Add container to render app in
